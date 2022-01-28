@@ -407,3 +407,12 @@
     background: url(../img/svg/arrow.svg) no-repeat right center;
     color: #0e66da;
 }
+
+.top {
+    margin-bottom: 86px;
+}
+
+.top-title {
+    margin-bottom: 54px;
+}
+
