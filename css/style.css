@@ -418,6 +418,11 @@
     grid-gap: 57px 57px;
 }
 
+.top_card {
+    display: flex;
+    flex-direction: column;
+}
+
 .top-title {
     margin-bottom: 54px;
 }
@@ -474,11 +479,13 @@
 }
 
 .top_card-more {
+    width: 118px;
     padding: 12px 19px;
     background: #006DFE;
     text-decoration: none;
     color: #fff;
     font-size: 16px;
+    margin: auto 0 0 0;
 }
 
 .top_card-more:hover, .top_card-more:focus, .top_card-more:active {
